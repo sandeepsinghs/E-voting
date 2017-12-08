@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Singh\CompleteModule_S051 (1)\E-voting\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="D:\Singh\CompleteModule_S051 (1)\E-voting\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_2db725d0cb4f5217bb843ac941eb2b5fe9b537bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\CEPL\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpcore\4.4.6\e3fd8ced1f52c7574af952e2e6da0df8df08eb82\httpcore-4.4.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e3fd8ced1f52c7574af952e2e6da0df8df08eb82">
+        <dex dex="D:\Singh\CompleteModule_S051 (1)\E-voting\app\build\intermediates\pre-dexed\debug\httpcore-4.4.6_0834ebc09ce6cef89208fe1db411b9c1e272510b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Singh\CompleteModule_S051 (1)\E-voting\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="D:\Singh\CompleteModule_S051 (1)\E-voting\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_01003653ebb67c72e520a36367787107534e1c5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Singh\CompleteModule_S051 (1)\E-voting\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="D:\Singh\CompleteModule_S051 (1)\E-voting\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-measurement-8.4.0_6420dd143c574a2eb1b03dbc18c1b08c7d465220.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Singh\CompleteModule_S051 (1)\E-voting\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="D:\Singh\CompleteModule_S051 (1)\E-voting\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_89ebfaf01b2ae02fcfa545058254506ce793454e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\CEPL\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpmime\4.3.5\1dd0d38df9c6d21e893f2e52403f1cd99e91cd81\httpmime-4.3.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1dd0d38df9c6d21e893f2e52403f1cd99e91cd81">
+        <dex dex="D:\Singh\CompleteModule_S051 (1)\E-voting\app\build\intermediates\pre-dexed\debug\httpmime-4.3.5_974d79bbba0af0473ce334d422613011aa1fa1c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\CEPL\.gradle\caches\modules-2\files-2.1\com.mcxiaoke.volley\library\1.0.19\a8f23f65fc1e522ee4a1a697ee569901a46741fa\library-1.0.19.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="D:\Singh\CompleteModule_S051 (1)\E-voting\app\build\intermediates\pre-dexed\debug\library-1.0.19_74b53261d3c73883b2391a3e3851a300186b7399.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Singh\CompleteModule_S051 (1)\E-voting\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="D:\Singh\CompleteModule_S051 (1)\E-voting\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.1.1_c1e72175422afa58c29f3edf3147d267243ec6aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Singh\CompleteModule_S051 (1)\E-voting\app\build\intermediates\exploded-aar\com.mikhaellopez\circularimageview\3.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c38aaa6e8232077c6b21a4ac56d49ff2dbcf29ac">
+        <dex dex="D:\Singh\CompleteModule_S051 (1)\E-voting\app\build\intermediates\pre-dexed\debug\com.mikhaellopez-circularimageview-3.0.1_723f027997eb7197f697eee8b4e09137e1b31abf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\CEPL\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="D:\Singh\CompleteModule_S051 (1)\E-voting\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_7f9fba9c8da6e56656bb8d67460fd038080d32c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Singh\CompleteModule_S051 (1)\E-voting\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="D:\Singh\CompleteModule_S051 (1)\E-voting\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.1.1_2d24010a22d222213ca891b3eae7c3573ecf60f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Singh\CompleteModule_S051 (1)\E-voting\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="D:\Singh\CompleteModule_S051 (1)\E-voting\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-8.4.0_4e87d17d6188aab03e7fc0ee0e2343fdd61b0985.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidSdk\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="D:\Singh\CompleteModule_S051 (1)\E-voting\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_34c339050afa94d877179e3b6459c45f9a6f38bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Singh\CompleteModule_S051 (1)\E-voting\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="D:\Singh\CompleteModule_S051 (1)\E-voting\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.1.1_13f966e2b54c3e5ba3f30567279ecfcaae84eebc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Singh\CompleteModule_S051 (1)\E-voting\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="D:\Singh\CompleteModule_S051 (1)\E-voting\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.4.0_0d0fc2908d6e262f73a0f7b5538502ac21784690.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Singh\CompleteModule_S051 (1)\E-voting\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="D:\Singh\CompleteModule_S051 (1)\E-voting\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gcm-8.4.0_093de0473e3601db9441e2fd4d6e8061eb7eb00f.jar" />
+    </item>
+
+</items>

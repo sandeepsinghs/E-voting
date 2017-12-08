@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+
+app:cardElevation="5dp"
+    app:cardUseCompatPadding="true"
+    app:cardCornerRadius="4dp"
+    app:cardPreventCornerOverlap="true"
+app:cardMaxElevation="4dp"
+
+
+    >
+
+  <LinearLayout
+      android:layout_width="match_parent"
+      android:orientation="vertical"
+
+      android:layout_height="match_parent">
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="4dp"
+    android:background="@color/colorAccent"
+    />
+
+   <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_weight="1"
+       android:padding="10dp"
+       android:orientation="vertical"
+       android:layout_height="0dp">
+
+
+   <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:orientation="horizontal"
+       android:padding="10dp"
+       >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Name : "
+        android:typeface="serif"
+        android:textSize="16dp"
+        android:textStyle="bold" />
+
+       <TextView
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:text="Locksabha Elections"
+
+           android:typeface="serif"
+           android:textSize="16dp"
+           android:id="@+id/txtElectionName" />
+
+   </LinearLayout>
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="10dp"
+    >
+
+ <LinearLayout
+     android:layout_width="0dp"
+     android:layout_weight="1"
+     android:layout_height="wrap_content"
+     android:orientation="horizontal"
+     >
+
+  <TextView
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:text="Place : "
+      android:typeface="serif"
+      android:textSize="12dp"
+      android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Pune"
+        android:typeface="serif"
+        android:textSize="12dp"
+        android:id="@+id/txtElectionVenue" />
+
+
+ </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Date : "
+            android:typeface="serif"
+            android:textSize="12dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="23/10/2016"
+            android:typeface="serif"
+            android:textSize="12dp"
+            android:id="@+id/txtElectionDate" />
+
+
+    </LinearLayout>
+
+
+
+
+
+
+
+
+
+
+</LinearLayout>
+
+
+   </LinearLayout>
+
+
+  <LinearLayout
+      android:layout_width="match_parent"
+      android:layout_weight="0.1"
+      android:orientation="horizontal"
+      android:layout_height="0dp">
+
+
+<Button
+    android:layout_width="0dp"
+    android:layout_weight="1"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_btn2"
+    android:text="Status"
+    android:elevation="5dp"
+    android:typeface="serif"
+
+    android:id="@+id/btnStatus"
+    android:textColor="#fff" />
+      <Button
+          android:layout_width="0dp"
+          android:layout_weight="1"
+          android:layout_height="match_parent"
+          android:background="@drawable/background_btn2"
+          android:text="Result"
+          android:elevation="5dp"
+          android:typeface="serif"
+
+          android:id="@+id/btnResult"
+          android:textColor="#fff" />
+      <Button
+          android:layout_width="0dp"
+          android:layout_weight="1"
+          android:layout_height="match_parent"
+          android:background="@drawable/background_btn2"
+          android:text="Candidates"
+          android:elevation="5dp"
+          android:typeface="serif"
+
+          android:id="@+id/btnCandidates"
+          android:textColor="#fff" />
+
+
+
+
+
+
+
+
+  </LinearLayout>
+
+
+
+
+
+
+
+
+
+
+
+
+  </LinearLayout>
+
+
+
+
+
+
+
+</android.support.v7.widget.CardView>

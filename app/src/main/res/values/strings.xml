@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">E-Voting</string>
+    <string name="title_activity_registration">RegistrationActivity</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello Verify Person  fragment</string>
+
+    <string name="projectNumber">530296037045</string>
+    <string name="google_app_id">530296037045</string>
+    <string name="title_activity_election_list">ElectionListActivity</string>
+    <string name="title_activity_candidates">CandidatesActivity</string>
+    <string name="title_activity_result_list">ResultList</string>
+    <string name="title_activity_vote">VoteActivity</string>
+
+    <string name="SMS_User">atulchikane</string>
+    <string name="PWD">8336320</string>
+    <string name="SID">WEBSMS</string>
+    <string name="FL">0</string>
+    <string name="SMSURL">http://login.smsgatewayhub.com/smsapi/pushsms.aspx?</string>
+
+</resources>
